@@ -1,4 +1,6 @@
 # ViewPager2 Example
+[![Generate APK](https://github.com/ali-sardari/ViewPager2Example/actions/workflows/android.yml/badge.svg)](https://github.com/ali-sardari/ViewPager2Example/actions/workflows/android.yml)
+
 
 ## Demo
 
